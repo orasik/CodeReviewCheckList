@@ -9,3 +9,5 @@ Checklist for code review
 # Coding
 - CamelCase variables
 - try/catch for persist in the code
+- Make sure to use Constants or Models rather than direct values
+- Make sure to avoid un-neccessary flush
